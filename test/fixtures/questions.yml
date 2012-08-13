@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  headline: MyString
+  description: MyText
+  budget: 9.99
+  user_id: 1
+
+two:
+  headline: MyString
+  description: MyText
+  budget: 9.99
+  user_id: 1
